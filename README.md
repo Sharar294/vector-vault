@@ -1,4 +1,4 @@
-# Local-First Technical Documentation RAG
+# Vector Vault
 A high-performance Retrieval-Augmented Generation (RAG) system for querying technical datasheets locally.
 
 ## Project Overview
